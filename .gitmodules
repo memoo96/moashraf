@@ -1,0 +1,3 @@
+[submodule "external/moashraf"]
+	path = external/moashraf
+	url = https://github.com/memoo96/moashraf.git
